@@ -1,0 +1,14 @@
+{
+  "name": "missingenv-marketplace",
+  "description": "Marketplace for missingenv, which compares the env vars code reads with what deploy files set.",
+  "owner": {
+    "name": "Giulliano Macedo"
+  },
+  "plugins": [
+    {
+      "name": "missingenv",
+      "source": "./plugin",
+      "description": "Find environment variables your code reads but your deploy files don't set. Prints names only."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "missingenv",
+  "version": "0.1.0",
+  "description": "Find environment variables your code reads but your deploy files don't set, plus undocumented and stale settings. Prints names only, and never opens real .env files.",
+  "author": {
+    "name": "Giulliano Macedo",
+    "url": "https://github.com/GillMacedo"
+  },
+  "homepage": "https://github.com/GillMacedo/missingenv",
+  "repository": "https://github.com/GillMacedo/missingenv",
+  "license": "MIT",
+  "keywords": ["environment-variables", "env", "config", "kubernetes", "docker", "deployment", "dotenv"]
+}
