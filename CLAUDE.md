@@ -20,4 +20,4 @@ Claude Code skill and CLI that compares the env vars code reads with what deploy
 - Don't say a variable is definitely missing in production.
 
 ## Definition of done
-`make test` and `make lint` pass, and `CHANGELOG.md`, `ROADMAP.md` and docs are updated when relevant.
+`make test` and `make lint` pass, and `ROADMAP.md` and docs are updated when relevant.
